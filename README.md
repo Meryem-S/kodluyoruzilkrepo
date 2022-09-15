@@ -6,7 +6,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End eğitiminde oluşturduğu
 
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
-![lorem gorsel]()
+![lorem gorsel](https://user-images.githubusercontent.com/104515017/190388537-0ba21963-6549-4e9c-a0f0-5ca932055ff7.png)
 
 ```
 git clone https://github.com/Meryem-S/kodluyoruzilkrepo.git
